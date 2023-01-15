@@ -1,0 +1,16 @@
+2022-12-16 14:10:05.949 [info] Extension host with pid 7308 started
+2022-12-16 14:10:06.072 [info] ExtensionService#_doActivateExtension rebornix.ruby, startup: false, activationEvent: 'onLanguage:ruby'
+2022-12-16 14:10:06.074 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-16 14:10:06.155 [info] Lock '/home/gabrielardevol/.vscode-server/data/User/workspaceStorage/5b592ff1588bf640467114c3c78ab04c/vscode.lock': Lock acquired.
+2022-12-16 14:10:06.341 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-16 14:10:06.342 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-16 14:10:06.890 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-16 14:10:06.890 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-16 14:10:06.891 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-16 14:10:06.891 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2022-12-16 14:10:06.892 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onStartupFinished'
+2022-12-16 14:10:06.892 [info] Eager extensions activated
+2022-12-16 14:17:38.099 [info] ExtensionService#_doActivateExtension alexcvzz.vscode-sqlite, startup: false, activationEvent: 'onCommand:sqlite.explorer.add'
+2022-12-16 14:17:57.582 [info] Extension host terminating: received terminate message from renderer
+2022-12-16 14:17:57.583 [info] Lock '/home/gabrielardevol/.vscode-server/data/User/workspaceStorage/5b592ff1588bf640467114c3c78ab04c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-16 14:17:57.652 [info] Extension host with pid 7308 exiting with code 0

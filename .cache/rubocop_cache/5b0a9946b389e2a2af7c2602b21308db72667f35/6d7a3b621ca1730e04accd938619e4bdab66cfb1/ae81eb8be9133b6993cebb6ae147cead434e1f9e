@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":50,"end_pos":60},"message":"Lint/UselessAssignment: Useless assignment to variable - `controller`.","cop_name":"Lint/UselessAssignment","status":"unsupported"}]

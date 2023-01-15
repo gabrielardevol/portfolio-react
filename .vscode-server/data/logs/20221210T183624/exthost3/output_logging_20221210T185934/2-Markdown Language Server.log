@@ -1,0 +1,8 @@
+[Trace 18:00:45.003] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md
+[Trace 18:00:45.007] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md
+[Trace 18:00:45.013] Server: connection.languages.diagnostics.on: file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md
+[Trace 18:00:45.023] Server: connection.languages.diagnostics.on: file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md
+[Trace 18:00:45.052] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md 1
+[Debug 18:00:45.053] LinkProvider: compute - file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md
+[Debug 18:00:45.247] MdFoldingProvider: provideFoldingRanges — file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md 1
+[Debug 18:00:45.247] TableOfContentsProvider: create - file:///home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md

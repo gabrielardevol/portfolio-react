@@ -1,0 +1,28 @@
+2022-12-10 18:39:48.576 [info] Log level: Info
+2022-12-10 18:39:48.576 [info] Validating found git in: "git"
+2022-12-10 18:39:48.576 [info] Using git "2.25.1" from "git"
+2022-12-10 18:39:48.576 [info] > git rev-parse --show-toplevel [1174ms]
+2022-12-10 18:39:48.576 [info] > git rev-parse --git-dir --git-common-dir [105ms]
+2022-12-10 18:39:48.576 [info] Open repository: /home/gabrielardevol/lewagon/lewagon
+2022-12-10 18:39:48.589 [info] > git rev-parse --show-toplevel [16ms]
+2022-12-10 18:39:48.599 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 18:39:48.611 [info] > git config --get commit.template [24ms]
+2022-12-10 18:39:48.612 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-10 18:39:48.662 [info] > git rev-parse --show-toplevel [42ms]
+2022-12-10 18:39:48.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2022-12-10 18:39:48.871 [info] > git status -z -uall [184ms]
+2022-12-10 18:39:48.873 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [171ms]
+2022-12-10 18:39:48.966 [info] > git config --get commit.template [14ms]
+2022-12-10 18:39:49.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2022-12-10 18:39:49.072 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [49ms]
+2022-12-10 18:39:49.111 [info] > git status -z -uall [97ms]
+2022-12-10 18:39:49.360 [info] > git check-ignore -v -z --stdin [92ms]
+2022-12-10 18:39:49.489 [info] > git show --textconv :03-AR-Database/02-SQL-CRUD/01-Query-the-DB/lib/query.rb [100ms]
+2022-12-10 18:39:49.489 [info] > git ls-files --stage -- /home/gabrielardevol/lewagon/lewagon/03-AR-Database/02-SQL-CRUD/01-Query-the-DB/lib/query.rb [70ms]
+2022-12-10 18:39:49.513 [info] > git cat-file -s 5a4e0c37419ca408a4c8da974bd33fd606766c80 [5ms]
+2022-12-10 18:39:51.863 [info] > git check-ignore -v -z --stdin [7ms]
+2022-12-10 18:39:54.149 [info] > git check-ignore -v -z --stdin [18ms]
+2022-12-10 18:39:55.318 [info] > git ls-files --stage -- /home/gabrielardevol/lewagon/lewagon/03-AR-Database/02-SQL-CRUD/01-Query-the-DB/spec/query_spec.rb [10ms]
+2022-12-10 18:39:55.355 [info] > git cat-file -s c23ad94b9ebcd987a782b8b47a9095418dd9b2d7 [26ms]
+2022-12-10 18:39:55.356 [info] > git show --textconv :03-AR-Database/02-SQL-CRUD/01-Query-the-DB/spec/query_spec.rb [64ms]
+2022-12-10 18:48:23.571 [info] > git check-ignore -v -z --stdin [77ms]

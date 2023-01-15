@@ -1,0 +1,6 @@
+2022-12-12 23:20:13.439 [info] Extension host agent started.
+2022-12-12 23:20:13.680 [info] [127.0.0.1][643caaba][ManagementConnection] New connection established.
+2022-12-12 23:20:14.869 [info] [127.0.0.1][45fd79c1][ExtensionHostConnection] New connection established.
+2022-12-12 23:20:17.676 [info] [127.0.0.1][45fd79c1][ExtensionHostConnection] <26310> Launched Extension Host Process.
+2022-12-12 23:53:18.879 [info] [127.0.0.1][643caaba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-12 23:53:19.042 [info] [127.0.0.1][45fd79c1][ExtensionHostConnection] <26310> Extension Host Process exited with code: 0, signal: null.

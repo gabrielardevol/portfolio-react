@@ -1,0 +1,10 @@
+# TODO: require relevant files to bootstrap the app.
+# Then you can test your program with:
+#   ruby app.rb
+
+require_relative "router"
+csv = "data/meals.csv"
+mr = MealRepository.new
+mc = MealController.new(mr)
+router = Router.new(mc)
+router.run

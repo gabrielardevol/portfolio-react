@@ -1,0 +1,1 @@
+[{"severity":"fatal","location":{"begin_pos":267,"end_pos":273},"message":"Lint/Syntax: embedded document meets end of file (and they embark on a romantic journey)\n(Using Ruby 2.7 parser; configure using `TargetRubyVersion` parameter, under `AllCops`)","cop_name":"Lint/Syntax","status":"unsupported"}]

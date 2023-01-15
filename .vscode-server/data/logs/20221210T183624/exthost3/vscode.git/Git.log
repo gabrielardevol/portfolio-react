@@ -1,0 +1,23 @@
+2022-12-10 18:59:35.666 [info] Log level: Info
+2022-12-10 18:59:35.666 [info] Validating found git in: "git"
+2022-12-10 18:59:35.666 [info] Using git "2.25.1" from "git"
+2022-12-10 18:59:35.667 [info] > git rev-parse --show-toplevel [853ms]
+2022-12-10 18:59:35.667 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2022-12-10 18:59:35.667 [info] Open repository: /home/gabrielardevol/lewagon/lewagon
+2022-12-10 18:59:35.737 [info] > git rev-parse --show-toplevel [98ms]
+2022-12-10 18:59:35.768 [info] > git rev-parse --show-toplevel [24ms]
+2022-12-10 18:59:35.778 [info] > git config --get commit.template [128ms]
+2022-12-10 18:59:35.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2022-12-10 18:59:35.813 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2022-12-10 18:59:35.899 [info] > git status -z -uall [97ms]
+2022-12-10 18:59:35.973 [info] > git config --get commit.template [13ms]
+2022-12-10 18:59:36.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2022-12-10 18:59:36.072 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [53ms]
+2022-12-10 18:59:36.089 [info] > git status -z -uall [78ms]
+2022-12-10 18:59:36.299 [info] > git check-ignore -v -z --stdin [60ms]
+2022-12-10 19:00:29.015 [info] > git check-ignore -v -z --stdin [23ms]
+2022-12-10 19:00:33.581 [info] > git check-ignore -v -z --stdin [22ms]
+2022-12-10 19:00:34.921 [info] > git check-ignore -v -z --stdin [16ms]
+2022-12-10 19:00:44.764 [info] > git show --textconv :02-OOP/04-Cookbook-Day-Two/TEACHERS.md [49ms]
+2022-12-10 19:00:44.768 [info] > git ls-files --stage -- /home/gabrielardevol/lewagon/lewagon/02-OOP/04-Cookbook-Day-Two/TEACHERS.md [36ms]
+2022-12-10 19:00:44.787 [info] > git cat-file -s cd2a194084542afb31d3ec0e880f68c0504ad78f [4ms]

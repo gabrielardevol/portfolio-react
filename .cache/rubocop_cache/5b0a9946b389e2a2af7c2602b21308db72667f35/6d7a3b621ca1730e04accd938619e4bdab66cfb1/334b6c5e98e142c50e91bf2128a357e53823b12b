@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":52,"end_pos":54},"message":"Style/NilComparison: Prefer the use of the `nil?` predicate.","cop_name":"Style/NilComparison","status":"uncorrected"}]

@@ -1,0 +1,12 @@
+2022-12-09 15:01:56.166 [info] Extension host agent started.
+2022-12-09 15:01:56.262 [info] Started initializing default profile extensions in extensions installation folder. file:///home/gabrielardevol/.vscode-server/extensions
+2022-12-09 15:01:56.424 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/gabrielardevol/.vscode-server/extensions
+2022-12-09 15:01:56.546 [info] [127.0.0.1][1272c1b1][ManagementConnection] New connection established.
+2022-12-09 15:01:57.424 [info] [127.0.0.1][ed0058fc][ExtensionHostConnection] New connection established.
+2022-12-09 15:02:00.174 [info] [127.0.0.1][ed0058fc][ExtensionHostConnection] <6441> Launched Extension Host Process.
+2022-12-09 16:52:24.413 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-09 16:52:43.443 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-10 18:31:34.457 [info] [127.0.0.1][ed0058fc][ExtensionHostConnection] The client has reconnected.
+2022-12-10 18:31:35.080 [info] [127.0.0.1][1272c1b1][ManagementConnection] The client has reconnected.
+2022-12-10 18:35:21.413 [info] [127.0.0.1][1272c1b1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-10 18:35:21.785 [info] [127.0.0.1][ed0058fc][ExtensionHostConnection] <6441> Extension Host Process exited with code: 0, signal: null.

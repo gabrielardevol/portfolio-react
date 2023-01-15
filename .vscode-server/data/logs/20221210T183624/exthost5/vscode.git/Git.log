@@ -1,0 +1,22 @@
+2022-12-10 19:02:23.575 [info] Log level: Info
+2022-12-10 19:02:23.575 [info] Validating found git in: "git"
+2022-12-10 19:02:23.575 [info] Using git "2.25.1" from "git"
+2022-12-10 19:02:23.575 [info] > git rev-parse --show-toplevel [674ms]
+2022-12-10 19:02:23.575 [info] > git rev-parse --git-dir --git-common-dir [69ms]
+2022-12-10 19:02:23.575 [info] Open repository: /home/gabrielardevol/lewagon/lewagon
+2022-12-10 19:02:23.586 [info] > git rev-parse --show-toplevel [19ms]
+2022-12-10 19:02:23.598 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-10 19:02:23.612 [info] > git config --get commit.template [26ms]
+2022-12-10 19:02:23.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 19:02:23.668 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2022-12-10 19:02:23.751 [info] > git status -z -uall [106ms]
+2022-12-10 19:02:23.817 [info] > git config --get commit.template [6ms]
+2022-12-10 19:02:23.853 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2022-12-10 19:02:23.925 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [59ms]
+2022-12-10 19:02:24.093 [info] > git status -z -uall [234ms]
+2022-12-10 19:02:24.118 [info] > git check-ignore -v -z --stdin [12ms]
+2022-12-10 19:02:27.702 [info] > git check-ignore -v -z --stdin [21ms]
+2022-12-10 19:02:31.971 [info] > git check-ignore -v -z --stdin [19ms]
+2022-12-10 19:02:33.950 [info] > git show --textconv :02-OOP/03-Cookbook-Day-One/02-Cookbook/lib/app.rb [26ms]
+2022-12-10 19:02:33.958 [info] > git ls-files --stage -- /home/gabrielardevol/lewagon/lewagon/02-OOP/03-Cookbook-Day-One/02-Cookbook/lib/app.rb [8ms]
+2022-12-10 19:02:33.973 [info] > git cat-file -s 8d72b8ef93f3fe30f493904022d4067273382635 [2ms]

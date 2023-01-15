@@ -1,0 +1,135 @@
+<html>
+  <head>
+<style>
+
+</style>
+  </head>
+  <body>
+    <h1>Introduccion a Javascript</h1>
+    <h2>Unidad 2</h2>
+     <!-- <script src = "javascript.js"></script> -->
+
+    <li style = "color: red">accés al DOM no funciona</li>
+    <li style = "color: orange">event listeners</li>
+    <li style = "color: green">familiaritzar-me amb la sintaxi de javascript</li>
+    <ol>
+      <li>variables</li>
+      <li>datos</li>
+      <li>funciones</li>
+        <script>
+          function mensaje() {
+            console.log("això és un missatge")
+          }
+          mensaje()
+        </script>
+      <li>condicionales</li>
+        <script>
+          contento = false
+          if (contento === true) {
+            console.log(":)")
+          } else {
+            console.log(":(")
+          }
+          contento = true //not printing
+        </script>
+      <li>loops</li>
+        <script>
+          var nombres = ["Juanito", "Jorgito", "Jaimito"]; // nombres = ["Juanito", "", ""]
+          function mensaje(nombre) { // do    end
+            console.log("Hola, " + nombre);
+          }
+          function mensaje2(nombre) { // do    end
+            console.log("Como estás, " + nombre + "?");
+          }
+          nombres.forEach(function(elemento) {
+            mensaje(elemento);
+            mensaje2(elemento);
+            console.log(elemento);
+          }) ;
+        </script>
+      <li>objetos</li>
+      <script>
+
+        var coche = {
+          marca: "mercedes",
+          motor: "electric",
+          accelera: function() {     //not
+            console.log("bruuuuum"); //    working
+          }
+        }
+        console.log(coche.motor)
+        coche.accelera
+        console.log(coche.accelera)
+      </script>
+      <li>acceso al dom</li>
+        <script>
+          var encabezado = document.querySelector("h1");
+          encabezado.textcontent = "Javascript is useful" // not working
+        </script>
+      <li>event listeners</li>
+
+    </ol>
+    <script async defer>
+      alert("This is an embedded script")
+    </script>
+
+    <h2>Unidad 3</h2>
+    <li>Variables, numerales, literales</li>
+    <li id="operadoresyfunciones">Operadores y funciones</li>
+    <li>Event listeners</li>
+
+    <form id = "miform">
+      <label for="fname">First name:</label><br>
+      <input type="text" id="fname" name="fname" value="John"><br>
+      <label for="lname">Last name:</label><br>
+      <input type="text" id="lname" name="lname" value="Doe"><br><br>
+      <input type="submit" value="Submit">
+    </form>
+
+
+    <li style = "color:orange">Pass function as argument</li>
+    <script>
+      var numero = 2
+      alert(numero)
+      function sumar(num) {
+         num += 3
+         return num
+       }
+      // alert(sumar(numero))
+      function metode(variab, funci) {
+        return funci(variab)+5
+      }
+      alert(metode(numero, sumar))
+    </script>
+
+<li>Alterar el DOM</li>
+    <div id="alterareldom">
+      test?
+    </div>
+    <button id = "testbutton"> Click me </button>
+    <script>
+      // clicks = 0
+      function alterar(element) {
+        element.innerText = "test"
+        // console.log("holaaa" + clicks)
+      }
+        var button = document.querySelector("#alterareldom")
+        button.addEventListener("click", alterar)
+
+    </script>
+
+
+<script>
+  function saludar(form) {
+    form.preventDefault();
+    alert("hola")
+  }
+  var form = document.querySelector("#miform");
+
+  form.addEventListener("click", saludar)
+  </script>
+
+
+
+  </body>
+</html>

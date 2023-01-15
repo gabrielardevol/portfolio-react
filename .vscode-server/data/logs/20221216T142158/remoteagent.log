@@ -1,0 +1,25 @@
+2022-12-16 14:21:58.735 [info] Extension host agent started.
+2022-12-16 14:21:58.851 [info] [127.0.0.1][7b9a64b9][ManagementConnection] New connection established.
+2022-12-16 14:21:59.656 [info] [127.0.0.1][06983160][ExtensionHostConnection] New connection established.
+2022-12-16 14:22:01.540 [info] [127.0.0.1][06983160][ExtensionHostConnection] <11242> Launched Extension Host Process.
+2022-12-16 14:45:36.313 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-17 12:02:08.859 [info] [127.0.0.1][7b9a64b9][ManagementConnection] The client has reconnected.
+2022-12-17 12:02:09.665 [info] Getting Manifest... emmanuelbeziat.vscode-great-icons
+2022-12-17 12:02:10.057 [info] Installing extension: emmanuelbeziat.vscode-great-icons
+2022-12-17 12:02:13.715 [info] [127.0.0.1][06983160][ExtensionHostConnection] The client has reconnected.
+2022-12-17 12:02:16.453 [info] Extracted extension to /home/gabrielardevol/.vscode-server/extensions/.9a52867a-a15e-4444-bf5c-a63eb861b6a1: emmanuelbeziat.vscode-great-icons
+2022-12-17 12:02:16.479 [info] Renamed to /home/gabrielardevol/.vscode-server/extensions/emmanuelbeziat.vscode-great-icons-2.1.89
+2022-12-17 12:02:16.484 [info] Extracting completed. emmanuelbeziat.vscode-great-icons
+2022-12-17 12:02:16.504 [info] Extension installed successfully: emmanuelbeziat.vscode-great-icons
+2022-12-17 12:02:16.618 [info] Marked extension as uninstalled emmanuelbeziat.vscode-great-icons-2.1.86
+2022-12-17 12:41:35.122 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-17 18:23:20.458 [info] [127.0.0.1][7b9a64b9][ManagementConnection] The client has reconnected.
+2022-12-17 18:23:20.859 [info] [127.0.0.1][06983160][ExtensionHostConnection] The client has reconnected.
+2022-12-17 19:05:33.949 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-18 04:44:48.442 [info] [127.0.0.1][7b9a64b9][ManagementConnection] The client has reconnected.
+2022-12-18 04:44:48.830 [info] [127.0.0.1][06983160][ExtensionHostConnection] The client has reconnected.
+2022-12-18 06:09:57.787 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-18 14:55:55.623 [info] [127.0.0.1][7b9a64b9][ManagementConnection] The client has reconnected.
+2022-12-18 14:55:56.146 [info] [127.0.0.1][06983160][ExtensionHostConnection] The client has reconnected.
+2022-12-18 16:44:26.252 [info] [127.0.0.1][7b9a64b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-18 16:44:26.828 [info] [127.0.0.1][06983160][ExtensionHostConnection] <11242> Extension Host Process exited with code: 0, signal: null.

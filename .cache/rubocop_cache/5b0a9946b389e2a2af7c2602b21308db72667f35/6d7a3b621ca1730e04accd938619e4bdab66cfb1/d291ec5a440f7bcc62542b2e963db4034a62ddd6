@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":863,"end_pos":864},"message":"Layout/EmptyLinesAroundClassBody: Extra empty line detected at class body end.","cop_name":"Layout/EmptyLinesAroundClassBody","status":"uncorrected"}]

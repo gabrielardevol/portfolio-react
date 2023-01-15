@@ -1,0 +1,33 @@
+require_relative "wagon_sort"
+
+list = []
+puts "Type a student name:"
+
+student = gets.chomp
+until student == ""
+  list << student
+  puts "Type another student name or press enter to finish:"
+  student = gets.chomp
+end
+puts "Congratulations! Your Wagon has #{list.length} students:"
+ordered_list = wagon_sort(list)
+last_element = ordered_list[-1]
+ordered_list.delete_at(-1)
+puts list.length
+puts "#{ordered_list.join(', ')} and #{last_element}"
+
+
+# TODO: ha de dir "pepito, fulano and mengano ;;;; diu: "pepito, fulano, megano"
+# TODO: tal com ara està, eliminar l'últim element de l'array i afegir-lo després amb #{}
+
+
+
+# TODO: Ask the user about students to add to the Wagon.
+#       Remember, to read an input from the command line, use:
+#       - `gets`:  https://ruby-doc.org/core-2.7.5/Kernel.html#method-i-gets
+#       - `chomp`: https://ruby-doc.org/core-2.7.5/String.html#method-i-chomp
+
+
+
+# TODO: Then call `wagon_sort` method defined in the wagon_sort.rb
+#       file and display the sorted student list

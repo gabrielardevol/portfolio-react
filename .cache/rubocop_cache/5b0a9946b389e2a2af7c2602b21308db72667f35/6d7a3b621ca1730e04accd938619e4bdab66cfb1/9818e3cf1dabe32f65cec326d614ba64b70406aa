@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":15,"end_pos":24},"message":"Style/ClassVars: Replace class var @@animals with a class instance var.","cop_name":"Style/ClassVars","status":"unsupported"}]

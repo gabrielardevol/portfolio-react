@@ -1,0 +1,8 @@
+{
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "workbench.editorAssociations": {
+    "*.sqlite": "default"
+  },
+  "window.zoomLevel": 1,
+  "workbench.activityBar.visible": false
+}

@@ -1,0 +1,33 @@
+2022-12-18 17:13:04.302 [info] Extension host agent started.
+2022-12-18 17:13:04.470 [info] [127.0.0.1][9ebe80c4][ManagementConnection] New connection established.
+2022-12-18 17:13:05.399 [info] [127.0.0.1][64012e28][ExtensionHostConnection] New connection established.
+2022-12-18 17:13:05.681 [info] Deleted from disk emmanuelbeziat.vscode-great-icons /home/gabrielardevol/.vscode-server/extensions/emmanuelbeziat.vscode-great-icons-2.1.86
+2022-12-18 17:13:08.504 [info] [127.0.0.1][64012e28][ExtensionHostConnection] <11081> Launched Extension Host Process.
+2022-12-18 17:51:37.843 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-18 17:51:53.049 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-19 13:00:02.604 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-19 13:00:03.199 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-19 13:02:34.742 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-19 13:02:34.921 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-19 13:55:34.173 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-19 13:55:34.295 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-19 17:28:31.530 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-19 22:35:16.518 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-19 22:35:16.789 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-20 05:26:06.377 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-20 10:10:41.332 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-20 10:10:41.701 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-20 12:53:40.324 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-20 12:53:40.827 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-20 14:49:26.001 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-20 22:44:28.094 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-20 22:44:30.024 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-21 02:57:05.027 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-21 11:20:35.712 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-21 11:20:35.933 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-21 13:59:02.382 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-21 13:59:02.704 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.
+2022-12-21 15:07:51.869 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-21 15:08:07.422 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-21 18:01:16.904 [info] [127.0.0.1][64012e28][ExtensionHostConnection] The client has reconnected.
+2022-12-21 18:01:25.310 [info] [127.0.0.1][9ebe80c4][ManagementConnection] The client has reconnected.

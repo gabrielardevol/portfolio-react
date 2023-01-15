@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":52,"end_pos":53},"message":"Lint/AssignmentInCondition: Use `==` if you meant to do a comparison or wrap the expression in parentheses to indicate you meant to assign in a condition.","cop_name":"Lint/AssignmentInCondition","status":"unsupported"}]

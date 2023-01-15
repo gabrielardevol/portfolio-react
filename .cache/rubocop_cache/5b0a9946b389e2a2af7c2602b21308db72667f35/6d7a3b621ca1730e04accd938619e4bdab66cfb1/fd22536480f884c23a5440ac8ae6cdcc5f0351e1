@@ -1,0 +1,1 @@
+[{"severity":"error","location":{"begin_pos":144,"end_pos":148},"message":"Lint/Syntax: unexpected token kELSE\n(Using Ruby 2.7 parser; configure using `TargetRubyVersion` parameter, under `AllCops`)","cop_name":"Lint/Syntax","status":"unsupported"}]

@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":134,"end_pos":140},"message":"Lint/UselessAssignment: Useless assignment to variable - `router`.","cop_name":"Lint/UselessAssignment","status":"unsupported"}]

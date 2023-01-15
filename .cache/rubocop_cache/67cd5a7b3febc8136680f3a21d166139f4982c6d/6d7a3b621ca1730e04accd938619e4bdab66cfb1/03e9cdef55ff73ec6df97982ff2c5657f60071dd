@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":143,"end_pos":149},"message":"Lint/UselessAssignment: Useless assignment to variable - `id_num`. Use `+` instead of `+=`.","cop_name":"Lint/UselessAssignment","status":"unsupported"}]

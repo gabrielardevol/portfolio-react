@@ -1,0 +1,2226 @@
+DateTime.new
+DateTime.new(2001,2,3,4,5,6,'+7')
+DateTime.new(2001,2,3,4,5,6,'+7').adj
+(2001,2,3).ajd
+Date.new(2001,2,3).ajd
+require "Date"
+require "date"
+Date.new(2001,2,3).ajd
+Date.new(2001,2,4).ajd
+Date.new(2001,2,5).ajd
+Date.new(2001,3,5).ajd
+DateTime.new(2001,2,3,4,5,6,'+7').adj
+DateTime.new(2001,2,3,4,5,6,'+7').ajd
+DateTime.new(2001,2,3,4,5,6,'+7').jd
+DateTime.new(2001,2,3).jd
+quit
+require "date"
+Date.today
+Date.today.jd
+quit
+require "date"
+today = Date.today.jd
+birthday = (1996, 11, 13).jd
+birthday = Date.new(1996, 11, 13).jd
+today - birthday
+9439 / 365
+quit
+require lib/coach_answer.rb
+require "lib/coach_answer.rb"
+quit
+require "lib/coach_answer.rb"
+load "lib/coach_answer.rb"
+coach_answer("hello?")
+quit
+load "lib/coach_answer.rb"
+coach_answer("hello?")
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+for num in (1..3) puts num
+for num in |1..3| puts num end
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 2)
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 2)
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 2)
+sum_with_for(1, 100)
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 100)
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 100)
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 100)
+quit
+load "lib/simple_looping.rb"
+sum_with_for(1, 10)
+sum_with_for(11, 10)
+sum_with_for(101, 10)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 3)
+sum_with_for(1, 3)
+sum_with_while(1, 3)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 3)
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(1, 9)
+sum_with_while(1, 3)
+sum_with_while(0, 3)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(0, 3)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(0, 3)
+sum_with_while(1, 3)
+quit
+sum_with_while(0, 3)
+load "lib/simple_looping.rb"
+sum_with_while(0, 3)
+sum_with_while(0, 6)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(0, 6)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 8)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(2, 1)
+sum_with_while(2, 4)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(2, 4)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(2, 4)
+sum_with_while(5, 4)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(5, 4)
+sum_with_while(2, 4)
+quit
+load "lib/simple_looping.rb"
+sum_with_while(2, 4)
+sum_with_while(5, 4)
+quit
+array = [1, 2, 3, 4 ,5]
+array.slice(-1)
+array.drop(-1)
+array.drop(1)
+quit
+list = [1,2,3]
+list.length
+quit
+require "lib/horse_racing.rb"
+load "lib/horse_racing.rb"
+horse_racing_format!([1,2,3])
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"]
+  horse_racing_format!(["1","2","3"]
+    quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"]
+  horse_racing_format!(["1","2","3"])
+horse_racing_format!(["1","2","3"])
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["1","2","3"])
+horse_racing_format!(["Abricot du Laudot", "Black Caviar", "Coup de Folie", "Brigadier Gerard"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["Abricot du Laudot", "Black Caviar", "Coup de Folie", "Brigadier Gerard"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["Abricot du Laudot", "Black Caviar", "Coup de Folie", "Brigadier Gerard"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["Abricot du Laudot", "Black Caviar", "Coup de Folie", "Brigadier Gerard"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["Abricot du Laudot", "Black Caviar", "Coup de Folie", "Brigadier Gerard"])
+quit
+load "lib/horse_racing.rb"
+horse_racing_format!(["Abricot du Laudot", "Black Caviar", "Coup de Folie", "Brigadier Gerard"])
+quit
+load "enumerable.rb"
+load "lib/enumerable.rb"
+sum_odd_indexed(1,2,3)
+sum_odd_indexed([1,2,3])
+quit
+load "lib/burger_restaurant.rb"
+p burger
+burger("steak", "ketchup", "onions")
+quit
+load "lib/burger_restaurant.rb"
+quit
+load "burger_restaurant.rb"
+load "lib/burger_restaurant.rb"
+quit
+load "lib/burger_restaurant.rb"
+p burger("patty", "sauce", "topping")
+quit
+load "lib/burger_restaurant.rb"
+p burger("patty", "sauce", "topping")
+p bigger_burger("patty", "sauce", "topping")
+quit
+load "lib/burger_restaurant.rb"
+quit
+load "lib/burger_restaurant.rb"
+bigger_burger("patty", "sauce", "topping")
+bigger_burger= burger("patty", "sauce", "topping")
+bigger_burger = burger("fish", "mayo", "salad")
+quit
+load "lib/burger_restaurant.rb"
+quit
+load "lib/burger_restaurant.rb"
+quit
+load "lib/burger_restaurant.rb"
+quit
+load "lib/burger_restaurant.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+patty
+patty = "patty"
+patty.gsub("a", "e")
+array = [0, 1, 2]
+array[0] = patty
+array
+array[0].gsub("a", "e")
+array
+patty
+patty.gsub("a", "e")
+patty
+patty = patty.gsub("a", "e")
+patty
+load "lib/interface.rb"
+load "lib/burger_restaurant.rb"
+burger("patty", "sauce", "topping")
+load "lib/burger_restaurant.rb"
+burger("patty", "sauce", "topping")
+load "lib/burger_restaurant.rb"
+burger("patty", "sauce", "topping")
+load "lib/interface.rb"
+burger("patty", "sauce", "topping")
+bigger_burger = burger("patty", "sauce", "topping")
+quit
+load "lib/burger_restaurant.rb"
+burger("1", "2", "3")
+big_burger = burger("1", "2", "3")
+load "lib/burger_restaurant.rb"
+big_burger = burger("1", "2", "3")
+("1", "2", "3").burger
+("1", "2").burger
+("1").burger
+(patty, sauce, topping).burger
+[patty, sauce, topping].burger
+quit
+load "lib/burger_restaurant.rb"
+burger(1,2,3)
+load "lib/burger_restaurant.rb"
+burger(1,2,3)
+quit
+load "lib/tag.rb"
+tag(html)
+hola.tag
+tag (h1) do "hola" end
+tag(h1) do "hola" end
+quit
+load "lib/splitter.rb"
+block_splitter(
+block_splitter(%w(apple apricot banana pear)) do |element|
+  element.start_with? "a"
+end
+uqit
+quit
+load "lib/splitter.rb"
+block_splitter(["apple", "apricot", "banana", "pear"])
+block_splitter(["apple", "apricot", "banana", "pear"]) do |element| element.upcase end
+block_splitter(["apple", "apricot", "banana", "pear"]) do |element| elemenquitupcase end
+quit
+load "lib/splitter.rb"
+p block_splitter
+block_splitter(1)
+block_splitter(["1", "2", "3"])
+block_splitter(1)
+quit
+load "lib/restaurant_order.rb"
+quit
+load "lib/restaurant_order.rb"
+poor_calories_counter("Hamburguer", nil, nil)
+calories["Hamburguer"]
+p calories
+load "lib/restaurant_order.rb"
+poor_calories_counter("Hamburguer", nil, nil)
+calories["Hamburguer"]
+CALORIES["Hamburguer"]
+load "lib/restaurant_order.rb"
+CALORIES["Hamburguer"]
+"Hamburguer"::CALORIES
+load "lib/restaurant_order.rb"
+poor_calories_counter("Hamburguer", nil, nil)
+load "lib/restaurant_order.rb"
+poor_calories_counter("Hamburguer", nil, nil)
+poor_calories_counter("Hamburger", nil, nil)
+load "lib/restaurant_order.rb"
+poor_calories_counter("Hamburger", "Salad", nil)
+load "lib/restaurant_order.rb"
+poor_calories_counter("Hamburger", "Salad", nil)
+poor_calories_counter("Hamburger", "Salad", "Lemonade")
+quit
+load "lib/restaurant_order"
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+calories_counter("Cheesy Comboo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order"
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+quit
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+quit
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy Combo")
+quit
+quit
+load "lib/restaurant_order.rb"
+poor_calories_counter("Cheese Burger", "Sweet Potatoes", "Lemonade")
+calories_counter("hello")
+load "lib/restaurant_order.rb"
+calories_counter(1)
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+poor_calories_counter("Cheese Burger", "Sweet Potatoes", "Lemonade")
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+poor_calories_counter("Cheese Burger", "Sweet Potatoes", "Lemonade")
+load "lib/restaurant_order.rb"
+poor_calories_counter("Cheese Burger", "Sweet Potatoes", "Lemonade")
+calories_counter("Cheesy combo")
+load "lib/restaurant_order.rb"
+quit
+load "lib/restaurant_order.rb"
+calories_counter("Cheesy combo")
+calories_counter(["Cheesy combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo"])
+p calories
+poor_calories_counter("Cheese Burger", "Sweet Potatoes", "Lemonade")
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo"])
+calories_counter(["Cheesy combo", "Cheesy combo"])
+calories_counter(["Cheesy combo", "Cheesy combo", "Lemonade"])
+calories_counter(["Cheesy combo", "Cheesy combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo", "Cheesy combo", "Lemonade"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo", "Cheesy combo", "Lemonade"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo", "Cheesy combo", "Lemonade"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheesy combo", "Cheesy combo", "Lemonade"])
+quit
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+DISHES_CALORIES["Cheesy combo"]
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+DISHES_CALORIES["Cheesy combo"].nil?
+orders.each do |meal|
+  p meal
+  DISHES_CALORIES["Cheesy combo"].nil?
+end
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea"])
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea", "Veggie Combo", "Vegan Combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea", "Veggie Combo", "Vegan Combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea", "Veggie Combo", "Vegan Combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea", "Veggie Combo", "Vegan Combo"])
+load "lib/restaurant_order.rb"
+calories_counter(["Cheese Burger", "Sweet Potatoes", "Cheesy Combo", "Iced Tea", "Veggie Combo", "Vegan Combo"])
+quit
+:foo.object_id
+"foo".object_id
+quit
+"foo".object_id
+one = "foo".object_id
+two = "foo".object_id
+one == two
+one = :foo.object_id
+two = :foo.object_id
+one == two
+quir
+quit
+load "lib/refrain.rb"
+refrain("hello")
+quit
+load "lib/refrain.rb"
+refrain("hello")
+refrain("hello", 2, 2, true)
+refrain("hello", 3, 2, true)
+refrain("hello", 3, 32, true)
+refrain("hello", 3, 32)
+lyrics = "cara al sol con la camisa nueva"
+lyrics += lyrics[lyrics.size - 1]
+lyrics += lyrics[- 1]
+quit
+load "lib/refrain.rb"
+better_refrain("hello")
+quit
+load "lib/refrain.rb"
+better_refrain("hello " { vibrato: 0, number_of_times: 1, strong: false })
+load "lib/refrain.rb"
+refrain("you won't brak my soul", 2, 2, true)
+better_refrain("you won't brak my soul", 2, 2, true)
+better_refrain("you won't brak my soul",{ 2, 2, true })
+better_refrain("you won't brak my soul" , { 2, 2, true })
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+load "lib/refrain.rb"
+better_refrain("you won't brak my soul" , { vibrato:  2, number_of_times: 2, strong:true })
+quit
+load "lib/refrain.rb"
+load "lib/array_to_hash.rb"
+array_to_hash("hello, my, name, is, Gabriel")
+load "lib/array_to_hash.rb"
+array_to_hash("hello, my, name, is, Gabriel")
+load "lib/array_to_hash.rb"
+array_to_hash("hello, my, name, is, Gabriel")
+load "lib/array_to_hash.rb"
+array_to_hash("hello, my, name, is, Gabriel")
+load "lib/array_to_hash.rb"
+array_to_hash("hello, my, name, is, Gabriel")
+load "lib/array_to_hash.rb"
+array_to_hash("hello, my, name, is, Gabriel")
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+quit
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+load "lib/array_to_hash.rb"
+array_to_hash([1, 2, 3, 4])
+quit
+load "lib/vocaloid.rb"
+Vocaloid.new("Miku", "Crypton", "Vocaloid 2")
+load "vocaloid.rb"
+load "lib/vocaloid.rb"
+Vocaloid.new("miku", "crypton", "v2")
+miku.song
+miku = Vocaloid.new("miku", "crypton", "v2")
+miku
+miku.song("world is mine")
+load "lib/vocaloid.rb"
+miku = Vocaloid.new("miku", "crypton", "v2")
+miku.song("world is mine")
+miku.song
+load "lib/vocaloid.rb"
+miku = Vocaloid.new("miku", "crypton", "v2")
+miku.song
+load "lib/vocaloid.rb"
+miku = Vocaloid.new("miku", "crypton", "v2")
+miku.song("world is mine")
+miku.song("popipo")
+quit
+load "lib/interface.rb"
+["lola", "juju", "chichi"].wagon_sort
+load "interface.rb"
+Ingredient.new
+load "interface.rb"
+Ingredient.new("suc de pinya", 56, 0.1, 6.5, 0.2)
+load "interface.rb"
+Ingredient.new("suc de pinya", 56, 0.1, 6.5, 0.2)
+Ingredient.new
+load "interface.rb"
+Ingredient.new
+Ingredient.new("suc de pinya", 56, 0.1, 6.5, 0.2)
+load "interface.rb"
+Ingredient.new
+Ingredient.initialize
+quit
+load "interface.rb"
+Ingredient.new
+Ingredient.new("suc de pinya")
+load "interface.rb"
+Ingredient.new("suc de pinya", 200, 230)
+quit
+load "interface.rb"
+Ingredient.new("suc de pinya", 200, 230)
+load "ingredient.rb"
+Ingredient.new("suc de pinya", 200, 230, 30, 23)
+load "ingredient.rb"
+Ingredient.new("suc de pinya", 200, 230, 30, 23)
+suc_pinya = Ingredient.new("suc de pinya", 200, 230, 30, 23)
+suc_pinya
+suc_pinya.read
+Ingredient.new("suc de pinya", 200, 230, 30, 23)
+load "ingredient.rb"
+suc_pinya = Ingredient.new("suc de pinya", 200, 230, 30, 23)
+suc_pinya.read
+load "ingredient.rb"
+suc_pinya = Ingredient.new("suc de pinya", 200, 230, 30, 23)
+suc_pinya.read
+suc_pinya.kcal
+load "ingredient.rb"
+suc_pinya.kcal
+suc_pinya.name
+load "ingredient.rb"
+suc_pinya.kcal
+suc_pinya.update_name("suc de préssec")
+suc_pinya.name
+load "ingredient.rb"
+suc_pinya.name
+suc_pinya.name = "suc de pinya"
+suc_pinya.name
+load "interface.rb"
+recipe
+load "interface.rb"
+load "ingredient.rb"
+Ingredient.new("caca", 1, 2, 3, 4, 5)
+load "interface.rb"
+new_ingredient
+load "interface.rb"
+load "create_ingredient.rb"
+load "interface.rb"
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+caca = Ingredient.new("caca", 1, 2, 3, 4, 5)
+ingredient_array << caca
+@ingredient_array << caca
+load "create_recipe.rb"
+cece
+2
+load "create_recipe.rb"
+Recipe.new("hola")
+Recipe.
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+Recipe.new("hola", "hola")
+Recipe.name
+Racipe.ingredients
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+koala = Recipe.new("koala", {"eyes" => 2, "mouth" => 1})
+koala.read
+koala.each_do |key, value|
+koala.each_do |key, value| puts "Paris #{key} is #{value}" end
+quit
+koala = Recipe.new("koala", {"eyes" => 2, "mouth" => 1})
+load "create_recipe.rb"
+koala = Recipe.new("koala", {"eyes" => 2, "mouth" => 1})
+koala.read
+load "create_recipe.rb"
+koala = Recipe.new("koala", {"eyes" => 2, "mouth" => 1})
+koala.read
+koala.key
+koala.ingredients
+quit
+load "recipe.rb"
+koala = Recipe.new("koala", {"eyes" => 2, "mouth" => 1})
+koala.ingredients
+koala.read
+load "recipe.rb"
+koala = Recipe.new("koala", {"eyes" => 2, "mouth" => 1})
+koala.read
+load "recipe.rb"
+load "create_recipe.rb"
+recipees
+load "create_recipe.rb"
+quit
+load "recipe.rb"
+koala = ("koala", {"eyes" => 2, "mouth" => 1})
+quit
+load "create_recipe.rb"
+quit
+load "create_recipe.rb"
+load "interface.rb"
+Ingredient.categories
+Ingredient.name
+load "lib/buying_scenario"
+load "lib/buying_scenario.rb"
+vending_machine
+prova = VendingMachine.new(250, 10)
+prova.insert_coin(200)
+prova
+load "lib/buying_scenario.rb"
+machine = VendingMachine.new
+machine = VendingMachine.new(250, 10)
+machine.insert_coin(200)
+display(machine)
+load "lib/buying_scenario.rb"
+prova = VendingMachine.new(250, 10)
+display(prova)
+prova.user_balance_cents
+prova = VendingMachine.new(250, 10)
+prova.user_balance_cents
+quir
+quit
+load "lib/buying_scenario.rb"
+vending_machine.user_balance_cents
+machine = VendingMachine.new(250, 10)
+machine.snack_count
+machine.user_balance_cents
+machine
+vending_machine
+load "lib/buying_scenario.rb"
+display(machine)
+load "lib/buying_scenario.rb"
+display(vending_machine)
+load "lib/buying_scenario.rb"
+display(vending_machine)
+display(machine)
+machine.insert_coin(260)
+machine.buy_snack
+load "lib/buying_scenario.rb"
+machine.insert_coin(260)
+machine.buy_snack
+quit
+load "lib/buying_scenario.rb"
+quit
+load "orange_tree.rb"
+load "lib/orange_tree.rb"
+orangetree = OrangeTree.new
+orangetree
+orangetree.aging
+load "lib/orange_tree.rb"
+orangetree = OrangeTree.new
+orangetree.aging
+load "lib/orange_tree.rb"
+orangetree = OrangeTree.new
+orangetree.aging
+orangetree
+load "lib/orange_tree.rb"
+orangetree = OrangeTree.new
+orangetree
+load "lib/orange_tree.rb"
+orangetree = OrangeTree.new
+orangetree.age?
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+tree = OrangeTree.new
+load "lib/interface.rb"
+tree = OrangeTree.new
+tree.age?
+tree.aging
+quit
+load "lib/orange_tree.rb"
+tree = OrangeTree.now
+tree = OrangeTree.new
+tree.age?
+tree.aging
+tree.age
+load "lib/orange_tree.rb"
+tree.age
+quit
+load "lib/orange_tree.rb"
+tree = OrangeTree.new
+tree.age
+tree.aging
+tree.one_year_passes!
+load "lib/orange_tree.rb"
+tree.one_year_passes!
+one_year_passes!
+tree.may_die!
+tree.aging
+tree.may_die!
+tree.age?
+tree.aging
+tree.age?
+tree.may_die!
+may_die!
+may_die!(tree)
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+tree.aging
+tree.may_die!
+tree.aging
+tree.may_die!
+tree.aging
+tree.may_die!
+(1..@age)
+(1..10)
+(1...10)
+load "lib/orange_tree.rb"
+tree.age?
+tree.may_die!
+load "lib/orange_tree.rb"
+tree2 = OrangeTree(75)
+tree2 = OrangeTree.new(75)
+load "lib/orange_tree.rb"
+tree2 = OrangeTree.new(75)
+tree2.may_die!
+load "lib/orange_tree.rb"
+tree2.one_year_passes!
+load "lib/orange_tree.rb"
+tree2.one_year_passes!
+load "lib/orange_tree.rb"
+tree2.one_year_passes!
+tree2.age?
+tree2.aging
+tree2.one_year_passes!
+load "lib/orange_tree.rb"
+tree3 = OrangeTree.new(75)
+load "lib/orange_tree.rb"
+tree3 = OrangeTree.new(75)
+tree3.height
+tree4 = OrangeTree.new(7)
+tree4.height
+tree4
+load "lib/orange_tree.rb"
+tree4
+tree4.height
+tree4
+tree2.aging
+tree4.aging
+tree4
+tree4.aging
+tree4
+tree4.aging
+tree4
+tree4.aging
+tree4
+tree4.aging
+tree4.may_die!
+tree4
+tree4.agin
+quit
+load "lib/orange_tree.rb"
+tree = OrangeTree.new
+tall.one_year_passes!
+load "lib/orange_tree.rb"
+tall.one_year_passes!
+load "lib/orange_tree.rb"
+tree = OrangeTree.new
+tall.one_year_passes!
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+load "lib/orange_tree.rb"
+tree
+quit
+load "lib/orange_tree.rb"
+tree = OrangeTree.new
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+load "lib/orange_tree.rb"
+tree.age
+tree.dead
+load "lib/orange_tree.rb"
+tree.dead
+tree
+tree2 = OrangeTree.new
+tree2.one_year_passes!
+tree2
+tree2.one_year_passes!
+tree2
+tree2.produce_fruits!
+tree2
+load "lib/orange_tree.rb"
+tree2.produce_fruits!
+tree2
+tree2.age = 20
+tree2.produce_fruits!
+tree2.dead?
+load "lib/interface.rb"
+load "lib/orange_tree.rb"
+tree = OrangeTree.new
+tree.one_year_passes!
+tree
+tree.age = 70
+tree
+tree.one_year_passes!
+tree.one_year_passes!tree
+tree
+tree.may_die!
+tree
+rand(1..(101 - tree.age))
+tree.may_die!
+load "lib/orange_tree.rb"
+quit
+load "lib/orange_tree.rb"
+tree = OrangeTree.new
+tree
+tree.one_year_passes
+tree.one_year_passes!
+tree
+tree.age = 75
+tree
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+tree.one_year_passes!
+tree
+tree.one_year_passes!
+tree
+load "lib/interface.rb"
+tree.dead?
+tree.dead
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+quit
+load "lib/interface.rb"
+tree = OrangeTree.new
+tree.age = 70
+tree.may_die
+tree.may_die!
+tree.age = 99
+tree.may_die!
+tree.age = 99
+tree.age = 100
+tree.may_die!
+tree.age = 100
+tree
+load "lib/orange_tree.rb"
+tree
+tree.may_die!
+load "lib/orange_tree.rb"
+tree.may_die!
+tree
+tree.may_die!
+tree
+load "lib/orange_tree.rb"
+tree
+tree.may_die!
+tree
+quit
+load "lib/interface"
+load "lib/interface.rb"
+quit
+"hello"
+s = "hello"
+s.gsub("e", "a")
+s.gsub(1, "a")
+s.gsub([1], "a")
+s
+s.delete_prefix(h)
+s.delete_prefix("h")
+s.delete_prefix(1)
+s[0, 1]
+s[0, 2]
+iban = FR14**************606
+iban = "FR14**************606"
+"#{@iban[0, 4]}**************#{@iban[17, 3]}"
+quit
+load "lib/bank_account"
+load "lib/bank_account.rb"
+iban = "12345678901234567890"
+iban
+"#{iban[0, 4]}"
+"#{iban[0, 4]}" + "**************" + "#{iban[17, 3]}"
+iban
+iban.iban
+load "lib/bank_account.rb"
+iban
+iban.iban
+"12345678901234567890" = BankAccount.new
+load "lib/bank_account.rb"
+"12345678901234567890" = BankAccount.new
+BankAccount.new
+compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya"
+  compta
+compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya"
+  compta() = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya"
+BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya"
+  compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya")
+compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya")
+quit
+compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya")
+load "lib/bank_account.rb"
+compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya")
+compta.iban
+"hola"[0, 3]
+load "lib/bank_account.rb"
+compta.iban
+load "lib/bank_account.rb"
+compta.iban
+load "lib/bank_account.rb"
+compta.iban
+load "lib/bank_account.rb"
+compta.iban
+load "lib/bank_account.rb"
+compta.iban
+compta
+load "lib/bank_account.rb"
+compta.iban
+load "lib/bank_account.rb"
+compta.iban
+load "lib/bank_account.rb"
+compta.iban
+quit
+load "lib/bank_account.rb"
+compta = BankAccount.new("Gabriel", 12345678901234567890, 300, "contrassenya")
+compta.iban
+quit
+load "lib/bank_account.rb"
+compta = BankAccount.new("Gabri", "12345678901234567890", 300, "contrassenya")
+compta
+compta.withdraw(200)
+compta.deposit(200)
+compta.withdraw(200)
+compta.deposit(200)
+compta.iban
+compta.to_s
+load "lib/bank_account.rb"
+compta = BankAccount.new("Gabri", "12345678901234567890", 300, "contrassenya")
+compta.deposit(200)
+compta
+compta.withdraw(200)
+compta
+load "lib/bank_account.rb"
+compta
+compta.transactions_history
+load "lib/bank_account.rb"
+compta.transactions_history
+compta.transactions_history("h")
+compta.transactions_history("password")
+compta.transactions_history("contrassenya")
+load "lib/bank_account.rb"
+compta
+compta.transaction_history("contrassenya")
+compta.transactions_history("contrassenya")
+quit
+load "german_shepherd.rb"
+load "lib/german_shepherd.rb"
+dog = GermanShepherd.new
+dog.bark
+load "lib/corn.rb"
+corn = Corn.new
+corn.ripe
+load "lib/corn.rb"
+corn.ripe
+corn.ripe?
+load "lib/farming_diary.rb"
+quit
+load "lib/farming_diary.rb"
+quit
+load "lib/farming_diary.rb"
+quit
+load "lib/restaurant.rb"
+restaurant = Restaurant.new
+restaurant = Restaurant.new("mcdonalds", "bcn")
+restaurant.rate(3)
+rates
+restaurant.rates
+restaurant
+load "lib/restaurant.rb"
+restaurant.rates
+load "lib/restaurant.rb"
+restaurant.rates
+restaurant.rate
+restaurant.rate(2)
+load "lib/restaurant.rb"
+restaurant.rate(2)
+load "lib/restaurant.rb"
+restaurant.rate(2)
+restaurant.rates
+restaurant.@rates
+load "lib/restaurant.rb"
+restaurant.@rates
+restaurant.rates
+restaurant.rates.size
+load "lib/restaurant.rb"
+restaurant.rate(2)
+load "lib/restaurant.rb"
+restaurant.rate(2)
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.rate(8)
+load "lib/restaurant.rb"
+restaurant.average_rating
+p restaurant
+load "lib/restaurant.rb"
+restaurants
+hola = Restaurant.new("hola", "hola")
+restaurants
+restaurant.average_rating
+load "lib/restaurant.rb"
+hola = Restaurant.new
+hola = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+hola = Restaurant.new("1", "2")
+holaa = Restaurant.new("1", "2")
+Restaurant.size
+Restaurant.display
+hola
+holaa
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+load "lib/restaurant.rb"
+holaa = Restaurant.new("1", "2")
+haolaa = Restaurant.new("1", "2")
+haaolaa = Restaurant.new("1", "2")
+ahaaolaa = Restaurant.new("1", "2")
+restaurants
+self.restaurants
+@restaurants
+self
+self.restaurants
+self.initialize
+self.rates
+Restaurant.rates
+load "lib/restaurant.rb"
+ahaaolaa = Restaurant.new("1", "2")
+p @restaurants
+load "lib/restaurant.rb"
+ahaaolaa = Restaurant.new("1", "2")
+ahaaolaa.initialize
+load "lib/restaurant.rb"
+ahaaolaa.initialize
+ahaaolaa = Restaurant.new("1", "2")
+ahaaolaa.restaurants
+Restaurant.restaurants
+load "lib/restaurant.rb"
+ahaaolaa = Restaurant.new("1", "2")
+ahaaolaa.print_restaurants
+adeu = Restaurant.new("1", "3")
+adey.print_restaurants
+adeu.print_restaurants
+load "lib/restaurant.rb"
+adeu = Restaurant.new("1", "3")
+load "lib/restaurant.rb"
+adeu = Restaurant.new("1", "3")
+adeu.filter_by_city
+load "lib/restaurant.rb"
+adeu.filter_by_city
+adeu = Restaurant.new("1", "3")
+adeu.filter_by_city
+adooeu = Restaurant.new("1", "3")
+adeu.filter_by_city(restaurants, "3")
+load "lib/restaurant.rb"
+adeu.filter_by_city(restaurants, "3")
+quit
+load "lib/restaurant.rb"
+r = Restaurant.new("1", "3")
+e = Restaurant.new("1", "3")
+s = Restaurant.new("1", "3")
+r.filter_by_city(restaurants, "3")
+r.filter_by_city("res", "3")
+self.filter_by_city("res", "3")
+load "lib/restaurant.rb"
+self.filter_by_city("res", "3")
+r.filter_by_city("res", "3")
+self.filter_by_city(restaurants, "3")
+load "lib/restaurant.rb"
+r = Restaurant.new
+r = Restaurant.new("mcdo", "Barcelona")
+load "lib/restaurant.rb"
+r = Restaurant.new("mcdo", "Barcelona")
+r.filter_by_cty(restaurants, "Barcelona")
+quit
+r.filter_by_cty(restaurants, "Barcelona")
+r = Restaurant.new("mcdo", "Barcelona")
+s = Restaurant.new("1", "3")
+quit
+load "lib/restaurant.rb"
+s = Restaurant.new("1", "3")
+r = Restaurant.new("mcdo", "Barcelona")
+self.filter_by_city(restaurants, "Barcelona")
+self.filter_by_city("restaurants", "Barcelona")
+Restaurant.filter_by_city(restaurants, "Barcelona")
+Restaurant.categories
+load "lib/restaurant.rb"
+Restaurants.test
+Restaurant.test
+quit
+load "lib/restaurant.rb"
+mcdonalds = Restaurant.new("barcelona", "mcdonalds")
+mcdonalds.rate(5)
+mcdonalds.rate(4)
+mcdonalds.rate(3)
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+load "lib/restaurant.rb"
+mcdonalds.rate(7)
+quit
+load "lib/restaurant.rb"
+mcdonalds = Restaurant.new("barcelona", "mcdonalds")
+mcdonalds.rate(5)
+quit
+load "lib/restaurant.rb"
+mcdonalds = Restaurant.new("barcelona", "mcdonalds")
+mcdonalds.rate(5)
+mcdonalds.rate(1)
+mcdonalds.rate(5)
+quit
+load "lib/farminddiary.rb"
+load "lib/farming_diary.rb"
+quit
+load "lib/farming_diary.rb"
+quit
+load "lib/farming_diary.rb"
+quit
+load "lib/chicken.rb"
+chf = Chiken.new("female")
+chf = Chicken.new("female")
+chf.talk
+chm = Chicken.new("male")
+chm.talk
+load "lib/chicken.rb"
+chm.talk
+chf.talk
+chm = Chicken.new("male")
+chm.talk
+chf = Chicken.new("female")
+chf.talk
+quit
+load "lib/chicken.rb"
+chicken = Chicken.new(female)
+chicken = Chicken.new("female")
+load "lib/chicken.rb"
+chicken = Chicken.new("female")
+load "lib/chicken.rb"
+chicken = Chicken.new("female")
+load "lib/chicken.rb"
+chicken = Chicken.new("female")
+Animal.all
+chicken.feed!
+quit
+self.inspect
+quit
+load "lib/animal.rb"
+cat = Animal.new
+Animal.new
+Animal.name
+Animal.name("name")
+Animal.name
+cat = Animal.new
+cat
+load "lib/animal.rb"
+cat = Animal.new
+quit
+load "lib/cookbook.rb"
+csv_file_path
+load "lib/cookbook.rb"
+Cookbook.new
+load "lib/cookbook.rb"
+Cookbook.new
+Cookbook.new(csv_file_path)
+Cookbook.new("csv_file_path")
+hola = Cookbook.new("csv_file_path")
+hola.add_recipe("hola")
+hola.add_recipe(["hola", "recepta"])
+load "lib/recipe.rb"
+quit
+load "lib/cookbook.rb"
+cookbook.all
+cookbook.recipes
+cookbook.all
+clear
+exit
+quit
+load "lib/cookbook.rb"
+cookbook = Cookbook.new
+cookbook = Cookbook.new(csv_file_path)
+cookbook = Cookbook.new("csv_file_path")
+cookbook.add_recipe(["name", "description"])
+cookbook.add_recipe(["name", "description", "no se"])
+cookbook.add_recipe("hola")
+load "lib/cookbook.rb"
+cookbook.add_recipe("hola")
+load "lib/cookbook.rb"
+cookbook.add_recipe("hola")
+cookbook.all
+cookbook.remove_recipe(0)
+cookbook.all
+load "lib/cookbook.rb"
+cookbook.remove_recipe(0)
+cookbook.all
+quit
+load "lib/router.rb"
+Router.new
+Controller.new
+load "lib/app.rb"
+exit
+load "lib/recipe.rb"
+recipe = Recipe.new
+recipe = Recipe.new("2", "2")
+recipe.save
+p csv_file_path
+load "lib/recipe.rb"
+@csv_file_path
+load "lib/recipe.rb"
+recipe.save
+load "lib/recipe.rb"
+recipe.save
+load "lib/recipe.rb"
+recipe.save
+load "lib/recipe.rb"
+recipe.save
+load "lib/recipe.rb"
+recipe.save
+load "lib/recipe.rb"
+recipe.save
+recipe2 = Recipe.new("magdalena", "bona")
+recipe3 = Recipe.new("melindo", "deliciós")
+recipe2.save
+recipe3.save
+quit
+load "app.rb"
+load "lib/app.rb"
+csv_file
+load "lib/app.rb"
+quit
+load "lib/cookbook.rb"
+cb = Cookbook.new("lib/recipes.vsv")
+cb = Cookbook.new("lib/recipes.csv")
+cb.all
+cv.add_recipe(["hola", "hola"])
+cb.add_recipe(["hola", "hola"])
+cb.all
+cb.add_recipe(["holaa", "holaa"])
+cb.all
+cb.remove_recipe(1)
+quit
+cb = Cookbook.new("nul")
+load "lib/cookbook.rb"
+cb = Cookbook.new("nul")
+cb.all
+cb
+cb.all
+quit
+load "lib/cookbook.rb"
+cb = Cookbooknew("lib/recipes.csv")
+cb = Cookbook.new("lib/recipes.csv")
+cb.add_recipe("1", "2")
+cb.add_recipe(["1", "2"])
+cb.add_recipe(["3", "4"])
+cb.add_recipe(["5", "6"])
+cb.all
+cb.remove_recipe(0)
+load "lib/cookbook.rb"
+cb.add_recipe(["5", "6"])
+p recipes
+recipes
+@recipes
+load "lib/cookbook.rb"
+@recipes
+p @recipes
+quit
+load "lib/cookbook.rb"
+cb = Cookbook.new("lib/recipes.csv")
+recipe1 = Recipe.new("1", "2")
+cb.add_recipe(recipe1)
+cb.add_recipe
+cb.add_recipe(recipe1)
+cb.add_recipe
+cb.add_recipe("2")
+cb.add_recipe(["2", "2"])
+load "lib/cookbook.rb"
+cb.add_recipe(recipe1)
+load "lib/cookbook.rb"
+cb.add_recipe(recipe1)
+load "lib/cookbook.rb"
+cb.add_recipe(recipe1)
+exit
+string = "string"
+string.delete("s")
+"stringstringssss".delete("s")
+quit
+load "lib/controller.rb"
+c = Controller.new(Cookbook.new)
+cb = Cookbook.new
+load "lib/app.rb"
+router
+router = Router.new
+csv_file   = File.join(__dir__, 'recipes.csv')
+cookbook   = Cookbook.new(csv_file)
+# cookbook   = Cookbook.new
+controller = Controller.new(cookbook)
+router = Router.new(controller)
+# Start the app
+router.run
+csv_file   = File.join(__dir__, 'recipes.csv')
+cookbook   = Cookbook.new(csv_file)
+# cookbook   = Cookbook.new
+controller = Controller.new(cookbook)
+router = Router.new(controller)
+controller.import
+quit
+load "lib/scrapper.rb"
+scrapper = Scrapper.new
+scrapper.scrap("s")
+load "lib/scrapper.rb"
+scrapper = Scrapper.new
+scrapper.scrap("s")
+load "lib/scrapper.rb"
+scrapper.scrap("s")
+exit
+load "lib/scrapper.rb"
+scrapper = Scrapper.new
+scrapper.import(2)
+@array
+scrapper.scrap("q")
+@array
+scrapper.scrap("q")
+scrapper.import(2)
+load "lib/scrapper.rb"
+scrapper.import(2)
+scrapper.import(3)
+load "lib/scrapper.rb"
+scrapper.import(2)
+uit
+quit
+load "lib/scrapper.rb"
+scrapper = Scrapper.new
+scrapper.scrap("q")
+scrapper.import(2)
+load "lib/scrapper.rb"
+scrapper.import(2)
+load "lib/scrapper.rb"
+scrapper.import(2)
+quit
+load "lib/app.rb"
+quit
+load "meal.rb"
+meal = Meal.new({name: "caca", price: "10"})
+meeal = Meal.new({name: "caca", price: "10"})
+quit
+load "meal.rb"
+meal = Meal.new({name: "caca", price: "10"})
+quit
+load "lib/meal.rb"
+load "meal.rb"
+meal = Meal.new
+load "meal.rb"
+meal = Meal.new
+load "meal.rb"
+meal = Meal.new
+load "meal.rb"
+meal = Meal.new
+load "meal_repository.rb"
+load "meals_controller.rb"
+quit
+load "meals_controller.rb"
+mc = MealsController.new
+load "meals_controller.rb"
+mc = MealsController.new
+load "meals_controller.rb"
+mc = MealsController.new
+quit
+load "meals_controller.rb"
+mc = MealsController.new
+quit
+load "meals_controller.rb"
+quit
+load "meals_controller.rb"
+quit
+load "meals_controller.rb"
+mc = MealsController.new
+mc.add
+load "meals_controller.rb"
+mc.add
+load "meals_controller.rb"
+mc.add
+load "meals_controller.rb"
+mc.add
+load "meals_controller.rb"
+mc.add
+load "meals_controller.rb"
+mc.add
+quit
+load "meals_controller.rb"
+mc = MealsController.new
+mc.add
+load "meals_controller.rb"
+mc.add
+quit
+load "test.rb"
+controller.add
+quit
+quit
+load "meal.rb"
+meal = Meal.new({}, 3)
+meal.id
+load "meal.rb"
+meal.id
+quit
+load "test.rb"
+p repository
+repository = MealRepository.new(csv_path)
+meal = repository.create({id: 1, name: "hamburguesa", price: 2})
+meal2 = repository.create({id: 2, name: "verdura", price: 3})
+p repository.meals
+quit
+load "test.rb"
+repository = MealRepository.new(csv_path)
+repository = MealRepository.new("")
+quit
+load "test.rb"
+repository = MealRepository.new("")
+load "test.rb"
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+mr
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+mr.delete(1)
+load "app/repositories/meal_repository.rb"
+mr.delete(1)
+load "app/repositories/meal_repository.rb"
+mr.delete(1)
+mr.new
+mr.delete(1)
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.test
+load "app/repositories/meal_repository.rb"
+mr.test
+mr.all
+load "app/repositories/meal_repository.rb"
+mr.all
+load "app/repositories/meal_repository.rb"
+mr.all
+load "app/repositories/meal_repository.rb"
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.read_csv
+load "app/repositories/meal_repository.rb"
+mr.csv
+load "app/repositories/meal_repository.rb"
+mr.csv
+load "app/repositories/meal_repository.rb"
+mr.csv
+load "app/repositories/meal_repository.rb"
+mr.csv
+load "app/repositories/meal_repository.rb"
+mr.csv
+File.exist?
+File.exist?("../../data/meals.csv")
+File.exist?("../../data/test.rb")
+File.exist?("../models/meal.rb")
+File
+File.basename
+File.basename(Dir.getwd)
+File.exist?("app/models/meal.rb")
+File.exist?("app/data/meals.csv")
+File.exist?("data/meals.csv")
+load "app/repositories/meal_repository.rb"
+mr.csv
+load "app/repositories/meal_repository.rb"
+mr.csv
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+mr.delete(0)
+load "app/repositories/meal_repository.rb"
+mr.delete(0)
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+uit
+quit
+load "app/models/meal_repository.rb"
+load "app/repository/meal_repository.rb"
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.all
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.all
+mr.meals
+load "app/repositories/meal_repository.rb"
+mr.meals
+mr.meals[0]
+meal0 = mr.meals[0]
+meal0.id
+meal0 = mr.meals[-1]
+meal1 = mr.meals[-1]
+mr.meals[-1]
+mr.meals[1]
+mr.meals
+mr.meals[0]
+mr.meals[1]
+mr.meals(0)
+mr.meals(1)
+mr.meals
+mr.meals[0]
+mr.meals[1]
+mr.meals.all
+mr.all
+mr.all[0]
+mr.all[1]
+mr.all
+mr.all.count
+mr.all[0]
+mr.all.count
+mr = MealRepository.new
+mr.all.count
+mr.new
+mr.all.count
+mr.new
+mr.all.counti
+uit
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.all[-1]
+mr.all[0]
+mr.all[1]
+mr.all.count
+Meal.new
+load "app/repositories/meal_repository.rb"
+Meal.new
+mr.all[1]
+mr = MealRepository.new
+mr.all.count
+mr.all[1]
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+uit
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+mr.delete(2)
+mr.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+mr = MealRepository.new
+mr.new
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+load "app/repositories/meal_repository.rb"
+mr.new
+re
+e
+r.e
+mm
+yuut
+uqit
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+uit
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+uit
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.find(2)
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.find(2)
+quit
+load "app/repositories/meal_repository.rb"
+mr = MealRepository.new
+mr.new({name: "menjar", price: "3€"})
+mr.create({name: "menjar", price: "3€"})
+mr.create({name: "macarrons", price: "6€"})
+mr.delete(3)
+load "app/repositories/meal_repository.rb"
+mr.delete(3)
+mr.create
+quit
+load "app/controllers/meal_controller.rb"
+mc = MealController.new()
+load "app/controllers/meal_controller.rb"
+mc = MealController.new()
+load "app/controllers/meal_controller.rb"
+mc = MealController.new()
+load "app/controllers/meal_controller.rb"
+mc = MealController.new()
+mc.add
+load "app/controllers/meal_controller.rb"
+mc.add
+quit
+load "app/controllers/meal_controller.rb"
+mc = MealController.new()
+mc.list
+load "app/controllers/meal_controller.rb"
+mc.list
+quit
+load "app/controllers/meal_controller.rb"
+mc = MealController.new()
+mc.list
+quit
+load "app.rb"
+load "app.rb"quit
+quit
+load "app.rb"
+quit
+load "app.rb"
+quit
+load "app.rb"
+quit
+load "app.rb"
+quit
+load "router.rb"
+Router.new
+mc = MealsController.new
+mc = MealController.new
+mc = MealController.new()
+mr = MealRepository.new
+mr = MealRepoquitsitory.new
+quit
+load "router.rb"
+mr = MealRepoquitsitory.new
+mr = MealRepository.new
+mc = MealController.new
+mc = MealController.new(mr)
+r = Router.new(mc)
+load "router.rb"
+r = Router.new(mc)
+load "router.rb"
+r = Router.new(mc)
+load "router.rb"
+r = Router.new(mc)
+load "router.rb"
+r = Router.new(mc)
+load "app/repositories/customer_repository.rb"
+cr = CuromerRepository.new
+cr = CustomerRepository.new
+cr.create
+load "app/repositories/customer_repository.rb"
+cr.create
+quit
+load "app/repositories/customer_repository.rb"
+cr = CustomerRepository.new
+cr.create
+load "app/repositories/customer_repository.rb"
+cr = CustomerRepository.new
+cr.create
+quit
+load "app/repositories/customer_repository.rb"
+cr = CustomerRepository.new
+cr.create
+quit
+load "app/repositories/customer_repository.rb"
+cr = CustomerRepository.new
+load "app/repositories/customer_repository.rb"
+cr = CustomerRepository.new
+quit
+load "app/repositories/customer_repository.rb"
+cr = CustomerRepository.new
+cr.create
+cr.all
+cr.delete(1)
+cr.delete(0)
+cr.create
+quit
+load "app/repositories/customer_controller.rb"
+load "app/controllers/customer_controller.rb"
+cr = CustomerRepository.new
+cc = CustomerController.new(cr)
+cc.add
+load "app/controllers/customer_controller.rb"
+quit
+load "app/controllers/customer_controller.rb"
+cr = CustomerRepository.new
+cc = CustomerController.new(cr)
+cc.add
+quit
+load "app/controllers/customer_controller.rb"
+cr = CustomerRepository.new
+cc = CustomerController.new(cr)
+cc.add
+quit
+load "app/test.rb"
+er = EmployeeRepository.new
+File.new("../../data/employee.csv")
+load "app/test.rb"
+er = EmployeeRepository.new
+er.csv_file
+quit
+load "app/test.rb"
+er = EmployeeRepository.new
+er.csv_file
+er.csv_file.exists?
+File.exists?("../../data/employee.csv")
+File.exists?("../../data/employees.csv")
+quit
+load "vew/typing_game.rb"
+load "view/typing_game.rb"
+p time1
+load "view/typing_game.rb"
+p time1
+p start_distance
+timelapse = 15
+timelapse / 149
+(timelapse / 149).to_f
+timelapse 
+15 / 150
+15.00  / 150.00

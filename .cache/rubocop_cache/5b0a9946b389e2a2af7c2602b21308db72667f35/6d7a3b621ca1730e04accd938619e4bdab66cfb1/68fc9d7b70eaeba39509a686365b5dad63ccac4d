@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":579,"end_pos":795},"message":"Style/CaseLikeIf: Convert `if-elsif` to `case-when`.","cop_name":"Style/CaseLikeIf","status":"uncorrected"}]

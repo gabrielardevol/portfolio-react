@@ -1,0 +1,7 @@
+{
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "workbench.editorAssociations": {
+    "*.sqlite": "default"
+  },
+  "terminal.integrated.fontSize": 28
+}

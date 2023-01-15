@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":383,"end_pos":392},"message":"Style/EmptyLiteral: Use array literal `[]` instead of `Array.new`.","cop_name":"Style/EmptyLiteral","status":"uncorrected"}]

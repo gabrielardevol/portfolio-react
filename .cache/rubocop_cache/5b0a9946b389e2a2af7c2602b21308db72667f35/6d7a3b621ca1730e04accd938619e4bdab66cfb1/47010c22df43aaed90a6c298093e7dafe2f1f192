@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":197,"end_pos":198},"message":"Lint/Void: Operator `-` used in void context.","cop_name":"Lint/Void","status":"unsupported"}]

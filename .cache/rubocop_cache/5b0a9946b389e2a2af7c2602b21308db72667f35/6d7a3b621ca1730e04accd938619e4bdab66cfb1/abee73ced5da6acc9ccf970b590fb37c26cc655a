@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":572,"end_pos":600},"message":"Lint/ShadowedArgument: Argument `patty` was shadowed by a local variable before it was used.","cop_name":"Lint/ShadowedArgument","status":"unsupported"}]

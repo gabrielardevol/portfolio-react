@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":281,"end_pos":286},"message":"Lint/UselessAssignment: Useless assignment to variable - `patty`.","cop_name":"Lint/UselessAssignment","status":"unsupported"}]

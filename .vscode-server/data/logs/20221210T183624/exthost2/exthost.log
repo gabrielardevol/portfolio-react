@@ -1,0 +1,15 @@
+2022-12-10 18:39:45.532 [info] Extension host with pid 16979 started
+2022-12-10 18:39:45.628 [info] Lock '/home/gabrielardevol/.vscode-server/data/User/workspaceStorage/aa5f23108a8d1644de434ae6ea64a446/vscode.lock': Lock acquired.
+2022-12-10 18:39:45.834 [info] ExtensionService#_doActivateExtension rebornix.ruby, startup: false, activationEvent: 'onLanguage:ruby'
+2022-12-10 18:39:45.837 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-10 18:39:46.463 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-10 18:39:46.464 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-10 18:39:47.258 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:39:47.260 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:39:47.261 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:39:47.262 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:39:47.263 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 18:39:47.264 [info] Eager extensions activated
+2022-12-10 18:51:23.714 [info] Extension host terminating: received terminate message from renderer
+2022-12-10 18:51:23.722 [info] Lock '/home/gabrielardevol/.vscode-server/data/User/workspaceStorage/aa5f23108a8d1644de434ae6ea64a446/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-10 18:51:23.906 [info] Extension host with pid 16979 exiting with code 0

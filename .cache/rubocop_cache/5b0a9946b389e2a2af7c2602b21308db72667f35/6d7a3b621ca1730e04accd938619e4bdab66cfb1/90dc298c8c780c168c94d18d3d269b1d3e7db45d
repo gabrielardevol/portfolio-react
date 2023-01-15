@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":36,"end_pos":99},"message":"Layout/CommentIndentation: Incorrect indentation detected (column 0 instead of 2).","cop_name":"Layout/CommentIndentation","status":"uncorrected"}]
